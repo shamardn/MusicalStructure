@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="alarms">Alarms</string>
+    <string name="rings">Rings</string>
+    <string name="pexels_torsten_dettlaff_347700">pexels_torsten_dettlaff_347700</string>
+    <string name="song_title">Song Title</string>
+    <string name="singer_name">Singer Name</string>
+    <string name="ring_title">ring_title</string>
+    <string name="artist_name">artist_name</string>
+    <string name="songtitle">Song title</string>
+    <string name="play_singer_name">play singer name</string>
+</resources>
